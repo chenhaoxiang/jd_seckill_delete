@@ -3,6 +3,8 @@
 安装过程中遇到的问题与解决方案文章地址：  
 [https://chenhx.blog.csdn.net/article/details/111995967](https://chenhx.blog.csdn.net/article/details/111995967)
 
+本项目不更新，看这个：https://github.com/chenhaoxiang/jd_seckill_anyi
+
 ## 特别声明:
 
 * 本仓库发布的`jd_seckill`项目中涉及的任何脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
